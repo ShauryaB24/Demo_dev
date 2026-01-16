@@ -8,7 +8,7 @@ public class DemoCommitMsgApplication {
 
 
 	public static void main(String[] args) {
-        System.out.println("DEMO1");
+        System.out.println("DEMO2");
 		SpringApplication.run(DemoCommitMsgApplication.class, args);
 	}
 
