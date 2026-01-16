@@ -6,7 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoCommitMsgApplication {
 
+
 	public static void main(String[] args) {
+        System.out.println("DEMO");
 		SpringApplication.run(DemoCommitMsgApplication.class, args);
 	}
 
